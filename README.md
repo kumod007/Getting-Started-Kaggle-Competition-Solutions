@@ -26,9 +26,9 @@ The primary objective of the "Getting Started Kaggle Competitions" repository is
 
 ----
 
-<h2>🥇 Kaggle Comeptitons 🥇</h2>
+<h2>🥇 List of Kaggle Comeptitons 🥇</h2>
 
-Here is a list of Kaggle competitions I have participated in:
+Here is a list of Getting Started - Kaggle competitions I have participated in:
 
 1. [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 2. [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)
@@ -44,7 +44,7 @@ Feel free to reach out to me:
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/kumod-sharma/)
 - **Email**: kumod.aws@gmail.com
-- **Kaggle**: [Your Kaggle Profile](https://www.kaggle.com/kdsharma)
+- **Kaggle**: [My Kaggle Profile](https://www.kaggle.com/kdsharma)
 
 I'm open to <b>discussions, collaborations, and answering any questions</b> you may have related to this repository or data science in general.<br> Don't hesitate to connect! 🙌
 
@@ -56,6 +56,11 @@ I'm open to <b>discussions, collaborations, and answering any questions</b> you 
 * I appreciate your time and hope you find the resources here valuable. If you have any feedback, questions, or suggestions, please don't hesitate to reach out.
 *  Thank you for visiting this repository and exploring my work. Your interest and support means a lot to me.
   
-<b>` 😊 Happy coding and learning! 😊`</b>
 
-----
+<div align="center">
+  
+# 😊 Happy coding and learning! 😊
+</div>
+<p align="center">
+  <img src="https://image.shutterstock.com/image-photo/notes-words-thank-you-on-260nw-1070472455.jpg" alt="Image Description" width="600" height="300">
+</p>
