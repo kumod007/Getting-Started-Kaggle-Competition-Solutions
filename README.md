@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🏆 Getting Started - Kaggle Competitions 🏆 
+# 🏆 Getting Started - Kaggle Competitions 🏆  
 </div>
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:2000/1*EXHXZDCRznTPnryMSXJe7Q.png" alt="Image Description" width="1000" height="400">
